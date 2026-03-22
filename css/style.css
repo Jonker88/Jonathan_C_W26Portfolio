@@ -830,9 +830,9 @@ section:last-of-type {
   margin-top: 1rem;
 }
 
-.capstone-grid .card + .card,
-.grid-2 .card + .card,
-.grid-3 .card + .card {
+.capstone-grid .card+.card,
+.grid-2 .card+.card,
+.grid-3 .card+.card {
   margin-top: 0;
 }
 
