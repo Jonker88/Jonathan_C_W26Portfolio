@@ -1,0 +1,24 @@
+Jonathan Cao
+Toronto, ON
+jonathan.h.cao88@gmail.com | 437-733-9163
+linkedin.com/in/jc-jonathan-cao
+
+[Date]
+
+[Hiring Manager Name]
+[Company Name]
+[Address]
+
+Dear Hiring Manager,
+
+I am writing to express my interest in [Position Title] at [Company]. As a Computer Programming and Analysis student at George Brown College with hands-on experience in IT support, software development, and collaborative project work, I am eager to contribute to your team while continuing to grow as a developer.
+
+Through my coursework and projects, I have built systems using ASP.NET Core, practiced full-stack patterns, and strengthened my skills in troubleshooting, documentation, and teamwork. My background as an IT intern has reinforced my ability to support users, manage endpoints, and communicate technical concepts clearly.
+
+I would welcome the opportunity to discuss how my skills align with your needs. Thank you for your consideration.
+
+Sincerely,
+Jonathan Cao
+
+---
+Replace bracketed fields and save as PDF (e.g. Jonathan_Cao_Cover_Letter.pdf) in the portfolio assets folder if you prefer a downloadable document for submission.
